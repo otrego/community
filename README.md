@@ -10,5 +10,5 @@ This is a place to collect:
 * Tutorials
 * Examples
 
-Review for changes to the Community Pages repository is recommended but not
-required.
+Review for changes to the Community Pages repository is encouraged but not
+required for Otrego maintainers.
