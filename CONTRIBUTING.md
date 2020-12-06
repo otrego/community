@@ -1,13 +1,13 @@
-# Contributing to Otrego
+# Contributing to Clamshell
 
-This guide will walk you through contributing to Otrego, and assumes you
+This guide will walk you through contributing to Clamshell, and assumes you
 have some experience with the game go, but might be relatively new to
 programming or to the tools/technologies.
 
 ## Bugs, Features, Questions, Comments
 
 If you have any bugs, feature requests, questions, or comments, please file
-them on our Issue on the [github issue tracker](https://github.com/otrego/clamshell/issues)
+them on our Issue on our [github tracker](https://github.com/otrego/clamshell/issues)
 
 ## Getting Started on Go
 
@@ -50,6 +50,9 @@ get started with these editors.
 **IntelliJ**
 
 TODO: Add some details about IntelliJ. Pull requests welcome!
+
+**Sublime Text**
+*   This [workflow tutorial](https://www.alexedwards.net/blog/streamline-your-sublime-text-and-go-workflow) is a great guide towards setting up features such as auto-formatting, auto-linting, and auto-completion
 
 ## Setting Up Your Dev Environment
 
