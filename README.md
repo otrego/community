@@ -1,14 +1,13 @@
 # Otrego Community
 
-The Community Page for Otrego.
+Otrego is a community dedicate to working together to making better,
+open-source software for the board game <a
+href="https://en.wikipedia.org/wiki/Go_(game)">go</a>, also known as igo
+(囲碁), baduk (바둑), weiqi (围棋).
 
-This is a place to collect:
+## Code of Conduct
 
-* Community guidelines and norms
-* Otrego Archicture
-* New-Member Onboarding
-* Tutorials
-* Examples
+In Otrego, we highly value developing a positive and supportive community. If
+you would like to participate in the Otrego Community, please read our [Code of
+Conduct](CODE_OF_CONDUCT.md).
 
-Review for changes to the Community Pages repository is encouraged but not
-required for Otrego maintainers.
