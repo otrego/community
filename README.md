@@ -11,3 +11,7 @@ In Otrego, we highly value developing a positive and supportive community. If
 you would like to participate in the Otrego Community, please read our [Code of
 Conduct](CODE_OF_CONDUCT.md).
 
+## Developers Guide
+
+If you're interesting in contributing to Otrego as a developer, check out our
+[Contributing Guide!](CONTRIBUTING.md).
