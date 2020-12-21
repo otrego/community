@@ -25,17 +25,17 @@ go, we use the following labeling scheme:
 
 * `Difficulty:DDK` -- *(Double Digit Kyu)* Issues a beginner to programming in
   the language in the relevant repository (typically Golang) can tackle. Issues
-  marked as DDK should be clearly marked with the expectations and requirements
+  marked as `DDK` should be clearly marked with the expectations and requirements
   by experienced Contributors to Otrego.
 * `Difficulty:Kyu` -- *(Single Digit Kyu)* Issues an intermediate programmer in
-  the relevant languages can tackle. Issues marked as SDK should have clear
+  the relevant languages can tackle. Issues marked as `Kyu` should have clear
   scope, but can assume general comptency in unit-testing, language style, and
   algorithms.
-* `Difficulty:Dan` -- Issues an experienced programmer can tackle. These issues
+* `Difficulty:Dan` -- Issues an experienced programmer can tackle. `Dan` issues
   may have unclear scope, require complex algorithms, or require understanding
   & integrating with other technologies (Cloud Services, Authentication).
 * `Difficulty:Pro` -- Issues that only the most experienced contributors in
-  Otrego should tackle. Pro-issues frequently require significant design and
-  understanding of the game go.
+  Otrego should tackle. `Pro` issues frequently require significant design and
+  significant understanding of the game go.
 
 We expect most issues to fall in either *Kyu* and *Dan* categories.
