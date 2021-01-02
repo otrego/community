@@ -123,6 +123,25 @@ gofmt
 golint
 govet
 ```
+## For Windows 10 Users:  Setting Up Your Dev Environment
+
+This is a setup checklist for setting up a Windows 10 software development environment to program in GoLang language,
+ and to collaborate with your software development team using GitHub.
+
+This assumes your computer operating system is Microsoft Windows 10.
+
+1. Install Visual Studio Code.  <https://code.visualstudio.com/Download>
+
+  - Check to ensure that the "Terminal" command line feature is installed with VS Code.  (See "Terminal" menu on topline header)
+  - If not installed, install the Terminal feature from the Visual Studio catalog of VS Code extensions.
+
+2. Install the GoLang language extension for VS Code, <https://marketplace.visualstudio.com/vscode> ... search for "GO". 
+
+3. We use GitHub collaboration tools.  GitHub is a website and cloud-based service that helps developers, and their collaborators, 
+   store and manage their code, as well as track and control changes to their code.
+   Learn about GitHub from <https://kinsta.com/knowledgebase/what-is-github/> 
+  - For using GitHub we recommend using Git commands from the Terminal.  
+  - We don't recommend installing the GitHub extension for VS Code.
 
 ## Change Workflow
 
