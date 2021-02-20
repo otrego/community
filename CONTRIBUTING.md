@@ -107,22 +107,21 @@ go test ./...
 ```
 
 Before you are ready to commit your changes, we recommend doing the following:
+
 1. Install golint
+
 ```shell
 go get -u golang.org/x/lint/golint
 ``` 
-2. Enable the pre-commit hooks in this repository
-```shell
-git config core.hooksPath .githooks
-```
 
-3. Run the following to ensure go code quality
+2. Run the following to ensure go code quality
 
 ```shell
 gofmt
 golint
 govet
 ```
+
 ## For Windows 10 Users:  Setting Up Your Dev Environment
 
 This is a setup checklist for setting up a Windows 10 software development environment to program in GoLang language,
