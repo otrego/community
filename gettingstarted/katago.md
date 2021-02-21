@@ -1,4 +1,4 @@
-# Katago
+# Getting Started with Katago
 
 [KataGo](https://github.com/lightvector/KataGo) is an open-source AI, based in
 part on DeepMind's AlphaGo. We use KataGo for various analysis-related
