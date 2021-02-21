@@ -18,11 +18,11 @@ If you're interesting in contributing to Otrego as a developer, check out our
 
 In particular, we have detailed guides in our [Getting Started](/gettingstarted/READMED.md) that cover:
 
-1. [Learning about the game go](gogame.md)
-2. [Getting started with golang](golang.md)
-3. [Setting up your editor](editor.md)
-4. [Getting Started with Git & Github](git.md)
-5. [Setting up Katago](katago.md)
+1.   [Learning about the game go](/gettingstarted/gogame.md)
+2.   [Getting started with golang](/gettingstarted/golang.md)
+3.   [Setting up your editor](/gettingstarted/editor.md)
+4.   [Getting Started with Git & Github](/gettingstarted/git.md)
+5.   [Setting up Katago](/gettingstarted/katago.md)
 
 ## Github Issues
 
