@@ -15,13 +15,13 @@ Primary Languages we use in Otrego
 
 ### Learning
 
-*Primary Resources*
+**Primary Resources**
 
 * **Go Docs**: https://golang.org/doc/ -- Collection of great docs for Golang
 * **Getting Started with Go**: https://golang.org/doc/tutorial/getting-started -- Getting started with Go programming language
 * **The Go Tour**: https://tour.golang.org/welcome/1 -- The best way to learn the basics.
 
-*Other Useful Resources*
+**Other Useful Resources**
 
 * **Go By Example**: https://gobyexample.com/ -- Learning Golang by examples.
 * **The Go Programming Language (Book)**: https://www.gopl.io/ -- The best book on the Go programming language.
