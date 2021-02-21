@@ -10,6 +10,19 @@ game.
 *   [Download from the Golang Website](https://golang.org/dl/)
 *   If you are on OSX, you can also install with [homebrew](https://brew.sh/)
 
+
+## Learning Golang
+
+Golang has fantastic getting started materials:
+
+1.  [Getting Started with Go](https://golang.org/doc/tutorial/getting-started)
+2.  [The Go Tour](https://tour.golang.org/welcome/1)
+3.  [How to Write Go Code](https://golang.org/doc/code.html)
+4.  [Go Docs Collection on golang.org](https://golang.org/doc/)
+5.  [Go By Example](https://gobyexample.com/) -- Learning Golang by examples.
+6.  [The Go Programming Language (Book)](https://www.gopl.io/) -- The best
+    book on the Go programming language.
+
 ### Installing Tools
 
 We use golint for linting our go-files.
@@ -63,19 +76,6 @@ go vet ./...
 
 ### Other Resources
 
-**Primary Resources**
-
-1.  [Installing Go](https://golang.org/doc/install)
-2   [Getting Started with Go](https://golang.org/doc/tutorial/getting-started)
-2.  [The Go Tour](https://tour.golang.org/welcome/1)
-3.  [How to Write Go Code](https://golang.org/doc/code.html)
-4   [Go Docs Collection on golang.org](https://golang.org/doc/)
-
-**Other Useful Resources**
-
-*   **Go By Example**: https://gobyexample.com/ -- Learning Golang by examples.
-*   **The Go Programming Language (Book)**: https://www.gopl.io/ -- The best
-    book on the Go programming language.
 *   **Effective Go**: https://golang.org/doc/effective_go -- Style guide & Best
     practices for Go.
 *   **Code Review Comments**:
