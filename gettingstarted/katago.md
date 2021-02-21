@@ -7,10 +7,13 @@ install and run KataGo.
 
 ### Installing KataGo
 
+KataGo can be installed from he [KataGo release page](https://github.com/lightvector/KataGo/releases)
+or from a package manager like Homebrew (OSX) or apt (Ubuntu).
+
 [KataGo](https://github.com/lightvector/KataGo) works with either
 [CUDA](https://developer.nvidia.com/cuda-zone) or
 [OpenCL](https://www.khronos.org/opencl/). With OpenCL, you can use it without
-needing a GPU machine.
+needing a GPU.
 
 In addition to the built-binaries, KataGo needs 3 configuration files to run:
 
