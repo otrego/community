@@ -13,7 +13,7 @@ you would like to participate in the Otrego Community, please read our
 
 ## Developers Guide
 
-If you're interesting in contributing to Otrego as a developer, check out our
+If you are interesting in contributing to Otrego as a developer, check out our
 [Contributing Guide!](CONTRIBUTING.md).
 
 In particular, we have detailed guides in our
