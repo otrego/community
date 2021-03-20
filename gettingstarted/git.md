@@ -73,7 +73,7 @@ The general flow looks lishould be:
 
 Specifically, here's a full example workflow:
 
-1.  Rebase on any upstream changes into master via merge.
+1.  Merge any upstream changes into master.
 
     ```shell
     git checkout master
