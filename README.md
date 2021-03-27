@@ -1,9 +1,9 @@
 # Otrego Community
 
-Otrego is a community dedicate to working together to making better,
-open-source software for the
-<a href="https://en.wikipedia.org/wiki/Go_(game)">board game Go</a>, also known as igo
-(囲碁), baduk (바둑), weiqi (围棋).
+Otrego is a community of programmers and go-players dedicated to working
+together to making a community around making better, open-source software for
+the <a href="https://en.wikipedia.org/wiki/Go_(game)">board game Go</a>, also
+known as igo (囲碁) in Japanese, baduk (바둑) in Korean, weiqi (围棋) in Chinese.
 
 ## Code of Conduct
 
@@ -13,7 +13,7 @@ you would like to participate in the Otrego Community, please read our
 
 ## Developers Guide
 
-If you're interesting in contributing to Otrego as a developer, check out our
+If you are interesting in contributing to Otrego as a developer, check out our
 [Contributing Guide!](CONTRIBUTING.md).
 
 In particular, we have detailed guides in our
@@ -23,7 +23,8 @@ In particular, we have detailed guides in our
 2.   [Getting started with golang](/gettingstarted/golang.md)
 3.   [Setting up your editor](/gettingstarted/editor.md)
 4.   [Getting Started with Git & Github](/gettingstarted/git.md)
-5.   [Setting up Katago](/gettingstarted/katago.md)
+5.   [Code Review in Otrego](/gettingstarted/codereview.md)
+6.   [Setting up Katago](/gettingstarted/katago.md)
 
 ## Github Issues
 
