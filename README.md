@@ -3,7 +3,7 @@
 Otrego is a community of programmers and go-players dedicated to working
 together to making a community around making better, open-source software for
 the <a href="https://en.wikipedia.org/wiki/Go_(game)">board game Go</a>, also
-known as igo (囲碁), baduk (바둑), weiqi (围棋).
+known as igo (囲碁) in Japanese, baduk (바둑) in Korean, weiqi (围棋) in Chinese.
 
 ## Code of Conduct
 

@@ -20,8 +20,9 @@ second pair of eyes on code tends to improve code-quality.
     responded on a Pull Request in 24 hours, it's OK to ping the code-reviewer.
 
 1.  **Focus on Understanding** Focus on understanding the change first. What is
-    the trying to do? Feel free to ask questions! Otrego is about collaboration
-    and part of collaboration is the learning that happens during Code Review.
+    the Pull Request trying to do? Feel free to ask questions! Otrego is about
+    collaboration and part of collaboration is the learning that happens during
+    Code Review.
 
 2.  **Make Suggestions** Go through each of the files in the Pull Request, making
     [suggestions and comments](https://google.github.io/eng-practices/review/).
