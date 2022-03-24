@@ -38,8 +38,13 @@ If you're new to the Golang (the Go programing language), then check out our
 
 ## Getting Started with Git
 
-If you're new to using a git or Gihub,check out our
+If you're new to using a git or Gihub, check out our
 [getting started with git guide](/gettingstarted/git.md).
+
+## Code Review
+
+We require submissions to all core Otrego repositories have code-review. Check
+out our [code review guide](/gettingstarted/codereview.md).
 
 ## Getting Started with Katago
 
@@ -47,3 +52,4 @@ Some what we do involves working with the open source go AI
 [KataGo](https://github.com/lightvector/KataGo).
 
 KataGo can be a little tricky to configure correctly. Check out our Getting Started with KataGo guide for more details.
+
